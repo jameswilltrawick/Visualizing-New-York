@@ -28,8 +28,8 @@ There are two main folders:
  			* preprocess.py - Clean and transforms values in dataset into more usable form
  			* ML.py - Train and build a prediction model using Random Forest
 
- 		c) /data directory
- 			This directory contains the input and output of our analysis
+ 		c) /data
+ 			This directory contains the input and output of our analysis (in a zipped file)
  			* 2020highschool.csv - input data for ClassifySchoolQuality.py
  			* SchoolQualityResponse.csv - input data for ClassifySchoolQuality.py
  			* school_quality_rating.csv - output of running ClassifySchoolQuality.py
@@ -64,7 +64,7 @@ There are two main folders:
 ---------
 
 
-1) Machine Learning
+1) Machine Learning (first unzip data in ~/CODE/MACHINE LEARNING/DATA)
 
 	a) Real Estate Forecasting (Estimated Execution time ~3 mins)
 
